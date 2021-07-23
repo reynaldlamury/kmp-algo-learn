@@ -1,0 +1,15 @@
+{
+  "name": "kmp-algo-learn",
+  "version": "1.0.0",
+  "description": "learn Knuth-Morris-Pratt (KMP) String Matching Algorithm - Abdul Bari - youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Reynald Lamury",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.31.0"
+  }
+}
